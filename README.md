@@ -11,7 +11,7 @@ or genre. Once a user finds a song they want to download, they can click on the 
     3. Add new features.
 >Additional Information
 >This project was created using the following technologies:
-    1. HTML
-    2. CSS
-    3. JavaScript
+    - HTML
+    - CSS
+    - JavaScript
 >Connect with me on twitter https://twitter.com/Njox16
